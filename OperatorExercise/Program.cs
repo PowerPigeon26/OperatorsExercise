@@ -21,7 +21,7 @@
             Console.WriteLine($"When a modulus b is done, the result is {remainder}.");
 
             Console.WriteLine("What is the radius of your circle?");
-            var radius = double.Parse(Console.ReadLine());  //possible null reference, yuck! Find different options to fix this, other than just loop check
+            var radius = double.Parse(Console.ReadLine()); //potential null reference, keep these in mind
             double circleArea1 = AreaOfCircle(radius);
             Console.WriteLine($"The area of a circle with radius of {radius} is {circleArea1}.");
 

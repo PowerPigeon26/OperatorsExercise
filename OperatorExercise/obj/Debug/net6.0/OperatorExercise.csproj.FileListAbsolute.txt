@@ -12,3 +12,4 @@ E:\Repos\OperatorsExercise\OperatorExercise\obj\Debug\net6.0\refint\OperatorExer
 E:\Repos\OperatorsExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
 E:\Repos\OperatorsExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
 E:\Repos\OperatorsExercise\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
+E:\Repos\OperatorsExercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.sourcelink.json
